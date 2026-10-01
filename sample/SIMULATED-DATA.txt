@@ -1,0 +1,5 @@
+SIMULATED DATA
+
+Every line in logs.jsonl is fictional, machine-generated sample data
+for the log-interrogator demo (seeded RNG, fixed clock). No real users,
+no real systems, no personal data.
